@@ -1,0 +1,4 @@
+﻿  Project 2.cpp
+C:\Users\reemo\source\repos\Project 2\Project 2.cpp(70,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\reemo\source\repos\Project 2\Project 2.cpp(103,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+  Project 2.vcxproj -> C:\Users\reemo\source\repos\Project 2\x64\Debug\Project 2.exe
